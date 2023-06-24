@@ -9,3 +9,5 @@ Before:
 
 After:
 ![After](after_script.png)
+
+Instructions: You only need the modTests.py file, click on it and you can download the raw python script and you should be able to run it on any instruction file.
