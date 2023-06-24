@@ -1,8 +1,11 @@
 # Test-Debugger
 Shows cache contents after each instruction
 
-NOTE: ONLY USE ON INSTRUCTION FILE
+NOTE: ONLY USE ON INSTRUCTION FILES
 
-![solarized palette](before_script.png)
 
-![Alt text](/jpkimball/Test-Debugger/after_script.png?raw=true "Optional Title")
+Before:
+![Before](before_script.png)
+
+After:
+![After](after_script.png)
